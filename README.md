@@ -1,1 +1,2 @@
-# WastePlay
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
